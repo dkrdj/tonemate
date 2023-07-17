@@ -206,7 +206,7 @@
 
 # 서비스 아키텍처
 
-![아키텍쳐](pic/Untitled 7.png)
+![아키텍쳐](pic/Untitled7.png)
 
 # 데이터셋
 
